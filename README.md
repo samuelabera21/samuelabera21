@@ -62,7 +62,7 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Backend+Developer;AI+and+Data+Science+Learner;Problem+Solver;Open+Source+Contributor" alt="Typing Animation" />
-</p>
+</p> -->
 ⭐ *“Code is like humor. When you have to explain it, it’s bad.”*
