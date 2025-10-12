@@ -9,8 +9,8 @@
                                                   📊 my github status here 📈
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelabera21&show_icons=true&theme=tokyonight" alt="Samuel's GitHub stats" width="25%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=samuelabera21&theme=tokyonight" width="25%">
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelabera21&show_icons=true&theme=tokyonight" alt="Samuel's GitHub stats" width="35%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=samuelabera21&theme=tokyonight" width="35%">
 </p>
 
 <p align="center">
