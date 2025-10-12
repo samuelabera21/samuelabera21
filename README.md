@@ -9,12 +9,12 @@
                                                   📊 my github status here 📈
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelabera21&show_icons=true&theme=tokyonight" alt="Samuel's GitHub stats" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=samuelabera21&theme=tokyonight" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelabera21&show_icons=true&theme=tokyonight" alt="Samuel's GitHub stats" width="30%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=samuelabera21&theme=tokyonight" width="30%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelabera21&layout=compact&theme=tokyonight" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelabera21&layout=compact&theme=tokyonight" width="30%">
 </p>
 
 ---
