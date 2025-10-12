@@ -7,14 +7,6 @@
 
 ---
 
-### 💡 About Me 
-
-- 🎓 Software Engineer **Backend Developer**  
-- 💻 Passionate about **real-world problem solving** and **web development**
-- 🌱 Currently improving my skills in **Artificial Intelligence**  
-- 🚀 Love contributing to **open-source** and building creative projects  
-
-
 ---
 
 ### 📊 Statistics 📈
