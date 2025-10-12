@@ -5,9 +5,6 @@
   <b>I'm passionate about Back-End Development and Artificial Intelligence
 </p>
 
----
-
----
 
                                                   📊 my github status here 📈
 
