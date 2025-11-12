@@ -38,7 +38,8 @@
 | 🛒 [MiniShop-CPP](https://github.com/samuelabera21/MiniShop-CPP) | Simple E-Commerce Console App | C++ |
 | 👨‍👩‍👧 [Family-Management-System](https://github.com/samuelabera21/Family-Management-System) | Manage family members with add/update/delete | C++ |
 | ✅ [Task-Management](https://github.com/samuelabera21/Task-Management) | Simple task organizing app | TypeScript |
-| ✅ [apples-homepage-with-react] (https://github.com/samuelabera21/Apple-home-page-React) clone apple home page |react vite
+| ✅ [apples-homepage-with-react](https://github.com/samuelabera21/Apple-home-page-React) | Clone Apple home page | React + Vite |
+
 
 ---
 
