@@ -6,7 +6,7 @@
 </p>
 
 
-                                                  📊 my github status here 📈
+                                                📊 my github status here 📈
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samuelabera21&show_icons=true&theme=tokyonight" alt="Samuel's GitHub stats" width="30%">
