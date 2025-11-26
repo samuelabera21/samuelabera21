@@ -2,24 +2,29 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <b>I'm passionate about Back-End Development and Artificial Intelligence
-</p>
-
-
-                                                📊 my github status here 📈
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelabera21&show_icons=true&theme=tokyonight" alt="Samuel's GitHub stats" width="30%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=samuelabera21&theme=tokyonight" width="30%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelabera21&layout=compact&theme=tokyonight" width="30%">
+  <b>I'm passionate about Back-End Development and Artificial Intelligence</b>
 </p>
 
 ---
 
-### 🧠 Tech Stack
+## 📊 My GitHub Status
+
+<p align="center">
+  <!-- GitHub Stats (Stable Mirror) -->
+  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=samuelabera21&show_icons=true&theme=tokyonight" width="45%">
+  
+  <!-- Streak Stats (Stable) -->
+  <img src="https://streak-stats.demolab.com?user=samuelabera21&theme=tokyonight" width="45%">
+</p>
+
+<p align="center">
+  <!-- Top Languages (Stable Mirror) -->
+  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=samuelabera21&layout=compact&theme=tokyonight" width="40%">
+</p>
+
+---
+
+## 🧠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,ts,html,css,js,react,python,java,nodejs,express,git,github,vscode,mysql,postgres" />
@@ -27,7 +32,7 @@
 
 ---
 
-### 🧩 Featured Projects
+## 🧩 Featured Projects
 
 | Project | Description | Tech |
 |----------|--------------|------|
@@ -38,12 +43,11 @@
 | 🛒 [MiniShop-CPP](https://github.com/samuelabera21/MiniShop-CPP) | Simple E-Commerce Console App | C++ |
 | 👨‍👩‍👧 [Family-Management-System](https://github.com/samuelabera21/Family-Management-System) | Manage family members with add/update/delete | C++ |
 | ✅ [Task-Management](https://github.com/samuelabera21/Task-Management) | Simple task organizing app | TypeScript |
-| ✅ [apples-homepage-with-react](https://github.com/samuelabera21/Apple-home-page-React) | Clone Apple home page | React + Vite |
-
+| 🍎 [Apple-homepage-clone](https://github.com/samuelabera21/Apple-home-page-React) | Apple homepage clone | React + Vite |
 
 ---
 
-### 📫 Contact Me
+## 📫 Contact Me
 
 <p align="center">
   <a href="mailto:sami21.good.bad@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -53,7 +57,8 @@
 
 ---
 
- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Backend+Developer;AI+and+Data+Science+Learner;Problem+Solver;Open+Source+Contributor" alt="Typing Animation" />
-</p> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Backend+Developer;AI+and+Data+Science+Learner;Problem+Solver;Open+Source+Contributor" />
+</p>
+
 ⭐ *“Code is like humor. When you have to explain it, it’s bad.”*
