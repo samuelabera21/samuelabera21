@@ -7,7 +7,22 @@
 
 ---
 
+## 📊 My GitHub Status
 
+<p align="center">
+  <!-- GitHub Stats (Stable Mirror) -->
+  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=samuelabera21&show_icons=true&theme=tokyonight" width="45%">
+  
+  <!-- Streak Stats (Stable) -->
+  <img src="https://streak-stats.demolab.com?user=samuelabera21&theme=tokyonight" width="45%">
+</p>
+
+<p align="center">
+  <!-- Top Languages (Stable Mirror) -->
+  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=samuelabera21&layout=compact&theme=tokyonight" width="40%">
+</p>
+
+---
 
 ## 🧠 Tech Stack
 
