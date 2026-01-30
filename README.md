@@ -10,16 +10,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelabera21&show_icons=true&theme=tokyonight&cache_seconds=1800" width="45%">
+  <!-- GitHub Stats (self-hosted) -->
+  <img src="https://github-readme-stats-git-master-sami21goodbad-gmailcoms-projects.vercel.app/api?username=samuelabera21&show_icons=true&theme=tokyonight&cache_seconds=1800" width="45%">
   
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelabera21&theme=tokyonight&cache_seconds=1800" width="45%">
+  <!-- GitHub Streak (self-hosted) -->
+  <img src="https://github-readme-streak-stats-git-master-sami21goodbad-gmailcoms-projects.vercel.app/?user=samuelabera21&theme=tokyonight&cache_seconds=1800" width="45%">
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelabera21&layout=compact&theme=tokyonight&cache_seconds=1800" width="40%">
+  <!-- Top Languages (self-hosted) -->
+  <img src="https://github-readme-stats-git-master-sami21goodbad-gmailcoms-projects.vercel.app/api/top-langs/?username=samuelabera21&layout=compact&theme=tokyonight&cache_seconds=1800" width="40%">
 </p>
 
 ---
