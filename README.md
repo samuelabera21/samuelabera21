@@ -11,15 +11,15 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelabera21&show_icons=true&theme=tokyonight" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelabera21&show_icons=true&theme=tokyonight&cache_seconds=1800" width="45%">
   
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelabera21&theme=tokyonight" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelabera21&theme=tokyonight&cache_seconds=1800" width="45%">
 </p>
 
 <p align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelabera21&layout=compact&theme=tokyonight" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelabera21&layout=compact&theme=tokyonight&cache_seconds=1800" width="40%">
 </p>
 
 ---
