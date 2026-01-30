@@ -2,29 +2,29 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <b>I'm passionate about Back-End Development and Artificial Intelligence</b>
+  <b>Back-End Developer | AI & Data Science Enthusiast | Open Source Contributor</b>
 </p>
 
 ---
 
-## 📊 My GitHub Status
+## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats (Stable Mirror) -->
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=samuelabera21&show_icons=true&theme=tokyonight" width="45%">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelabera21&show_icons=true&theme=tokyonight" width="45%">
   
-  <!-- Streak Stats (Stable) -->
-  <img src="https://streak-stats.demolab.com?user=samuelabera21&theme=tokyonight" width="45%">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelabera21&theme=tokyonight" width="45%">
 </p>
 
 <p align="center">
-  <!-- Top Languages (Stable Mirror) -->
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=samuelabera21&layout=compact&theme=tokyonight" width="40%">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelabera21&layout=compact&theme=tokyonight" width="40%">
 </p>
 
 ---
 
-## 🧠 Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,ts,html,css,js,react,python,java,nodejs,express,git,github,vscode,mysql,postgres" />
@@ -36,14 +36,14 @@
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🧠 [SkillHub_online_learning](https://github.com/samuelabera21/SkillHub_online_learning) | Online learning platform for skills and courses | TypeScript |
-| 🎮 [Samuel-s-Favorite-Game](https://github.com/samuelabera21/Samuel-s-Favorite-Game) | Fun browser-based game | TypeScript |
-| 🧩 [Type-Testing-game](https://github.com/samuelabera21/Type-Testing-game) | Typing speed game | JavaScript |
-| 🌍 [Ethio_travel](https://github.com/samuelabera21/Ethio_travel) | Ethiopian tourism web app | HTML |
+| 🧠 [SkillHub Online Learning](https://github.com/samuelabera21/SkillHub_online_learning) | Online learning platform for skills and courses | TypeScript |
+| 🎮 [Samuel's Favorite Game](https://github.com/samuelabera21/Samuel-s-Favorite-Game) | Fun browser-based game | TypeScript |
+| 🧩 [Type-Testing Game](https://github.com/samuelabera21/Type-Testing-game) | Typing speed game | JavaScript |
+| 🌍 [Ethio Travel](https://github.com/samuelabera21/Ethio_travel) | Ethiopian tourism web app | HTML |
 | 🛒 [MiniShop-CPP](https://github.com/samuelabera21/MiniShop-CPP) | Simple E-Commerce Console App | C++ |
-| 👨‍👩‍👧 [Family-Management-System](https://github.com/samuelabera21/Family-Management-System) | Manage family members with add/update/delete | C++ |
-| ✅ [Task-Management](https://github.com/samuelabera21/Task-Management) | Simple task organizing app | TypeScript |
-| 🍎 [Apple-homepage-clone](https://github.com/samuelabera21/Apple-home-page-React) | Apple homepage clone | React + Vite |
+| 👨‍👩‍👧 [Family Management System](https://github.com/samuelabera21/Family-Management-System) | Manage family members with add/update/delete | C++ |
+| ✅ [Task Management](https://github.com/samuelabera21/Task-Management) | Simple task organizing app | TypeScript |
+| 🍎 [Apple Homepage Clone](https://github.com/samuelabera21/Apple-home-page-React) | Apple homepage clone | React + Vite |
 
 ---
 
@@ -61,4 +61,4 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Backend+Developer;AI+and+Data+Science+Learner;Problem+Solver;Open+Source+Contributor" />
 </p>
 
-⭐ *“Code is like humor. When you have to explain it, it’s bad.”*
+⭐ *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
