@@ -19,16 +19,17 @@
 ## 📊 My GitHub Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samuelabera21&theme=dracula" width="48%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samuelabera21&theme=dracula" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samuelabera21&theme=dracula" width="88%">
 </p>
 
 
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samuelabera21&theme=tokyonight" width="60%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samuelabera21&theme=tokyonight" width="40%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samuelabera21&theme=tokyonight" width="40%">
 </p>
+
 
 
 
