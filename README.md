@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <b>Back-End Developer | AI & Data Science Enthusiast | Open Source Contributor</b>
+  <b>Back-End Developer | AI & Data Science Enthusiast | Open Source Contributor</b> 
 </p>
 
 ---
