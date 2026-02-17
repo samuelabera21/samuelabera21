@@ -7,13 +7,14 @@
 
 ---
 
-## 📊 GitHub Summary
+
+
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samuelabera21&theme=solarized_dark" width="30%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samuelabera21&theme=solarized_dark" width="30%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samuelabera21&theme=solarized_dark" width="30%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuelabera21&theme=react-dark&hide_border=true" width="95%" />
 </p>
+
 
 
 
