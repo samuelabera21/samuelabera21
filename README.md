@@ -7,20 +7,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Summary
 
 <p align="center">
-  <!-- Total Contributions -->
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelabera21&show_icons=true&theme=tokyonight" width="45%" />
-
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelabera21&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samuelabera21&theme=solarized_dark" width="30%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samuelabera21&theme=solarized_dark" width="30%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samuelabera21&theme=solarized_dark" width="30%">
 </p>
 
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelabera21&layout=compact&theme=tokyonight" width="40%" />
-</p>
 
 
 
