@@ -15,6 +15,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuelabera21&theme=react-dark&hide_border=true" width="95%" />
 </p>
 
+## 📆 Contributions Calendar
+
+<p align="center">
+  <img src="https://github.com/samuelabera21.png?tab=activity-calendar" width="95%" />
+</p>
 
 
 
