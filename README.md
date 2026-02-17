@@ -24,6 +24,12 @@
 </p>
 
 
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samuelabera21&theme=vue" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samuelabera21&theme=vue" width="48%">
+</p>
 
 
 
