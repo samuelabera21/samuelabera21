@@ -32,14 +32,6 @@ Software Engineering Student • Full-Stack Web Developer • AI & Machine Learn
 
 ## 🚀 Featured Projects
 
-### 🧠 SkillHub Online Learning
-Online learning platform for skills and courses.
-
-**Tech:** TypeScript
-
-🔗 [https://github.com/samuelabera21/SkillHub_online_learning](https://ethi-skill.netlify.app/)
-
----
 
 ### 💼 Ira Gebeya | Job Marketplace
 
@@ -137,6 +129,19 @@ Production-ready collaborative document editor with real-time synchronization.
 - Revision History
 
 🌐 https://synkwrite.netlify.app/
+
+
+
+
+### 🧠 SkillHub Online Learning
+Online learning platform for skills and courses.
+
+**Tech:** TypeScript
+
+🔗 [https://github.com/samuelabera21/SkillHub_online_learning](https://ethi-skill.netlify.app/)
+
+---
+
 
 ---
 
