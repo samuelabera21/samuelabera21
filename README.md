@@ -37,7 +37,7 @@ Online learning platform for skills and courses.
 
 **Tech:** TypeScript
 
-🔗 https://github.com/samuelabera21/SkillHub_online_learning
+🔗 [https://github.com/samuelabera21/SkillHub_online_learning](https://ethi-skill.netlify.app/)
 
 ---
 
