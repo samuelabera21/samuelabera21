@@ -1,85 +1,167 @@
-<h1 align="center">👋 Hi, I'm Samuel Abera</h1>
+<h1 align="center">Hi 👋, I'm Samuel Abera</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <b>Back-End Developer | AI & Data Science Enthusiast | Open Source Contributor</b>
+Software Engineering Student • Full-Stack Web Developer • AI & Machine Learning Learner
 </p>
 
----
-## 📈 GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuelabera21&theme=react-dark&hide_border=true" width="95%" />
-</p>
-
-
-
-
-
-
-## 📊 My GitHub Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samuelabera21&theme=dracula" width="88%">
-</p>
-
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samuelabera21&theme=tokyonight" width="40%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samuelabera21&theme=tokyonight" width="40%">
-</p>
-
-
-
-
-
-
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,ts,html,css,js,react,python,java,nodejs,express,git,github,vscode,mysql,postgres" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+Full-Stack+Applications;Learning+Artificial+Intelligence;Backend+Developer;Always+Learning+Something+New" />
 </p>
 
 ---
 
-## 🧩 Featured Projects
+## 👨‍💻 About Me
 
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🧠 [SkillHub Online Learning](https://github.com/samuelabera21/SkillHub_online_learning) | Online learning platform for skills and courses | TypeScript |
-| 🎮 [Samuel's Favorite Game](https://github.com/samuelabera21/Samuel-s-Favorite-Game) | Fun browser-based game | TypeScript |
-| 🧩 [Type-Testing Game](https://github.com/samuelabera21/Type-Testing-game) | Typing speed game | JavaScript |
-| 🌍 [Ethio Travel](https://github.com/samuelabera21/Ethio_travel) | Ethiopian tourism web app | HTML |
-| 🛒 [MiniShop-CPP](https://github.com/samuelabera21/MiniShop-CPP) | Simple E-Commerce Console App | C++ |
-| 👨‍👩‍👧 [Family Management System](https://github.com/samuelabera21/Family-Management-System) | Manage family members with add/update/delete | C++ |
-| ✅ [Task Management](https://github.com/samuelabera21/Task-Management) | Simple task organizing app | TypeScript |
-| 🍎 [Apple Homepage Clone](https://github.com/samuelabera21/Apple-home-page-React) | Apple homepage clone | React + Vite |
+- 🎓 Software Engineering Student
+- 🌍 Based in Ethiopia
+- 💡 Passionate about **Backend Development**, **Artificial Intelligence**, and **Modern Web Applications**
+- 🌱 Currently learning **Machine Learning**, **Next.js**, **System Design**, and **Cloud Technologies**
+- 🚀 I enjoy building products that solve real-world problems.
 
 ---
 
-## 📫 Contact Me
+## ⚒️ Tech Stack
 
 <p align="center">
-  <a href="mailto:sami21.good.bad@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/samuelabera21">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/samuelabera21">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,react,nextjs,nodejs,express,postgres,mysql,git,github,vscode,tailwind" />
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 SkillHub Online Learning
+Online learning platform for skills and courses.
+
+**Tech:** TypeScript
+
+🔗 https://github.com/samuelabera21/SkillHub_online_learning
+
+---
+
+### 💼 Ira Gebeya | Job Marketplace
+
+Responsive job marketplace connecting employers and job seekers.
+
+**Tech**
+
+- HTML
+- CSS
+- JavaScript
+- Tailwind CSS
+- Quill.js
+
+🌐 https://resplendent-starship-9acec3.netlify.app/
+
+---
+
+### 🤖 ፍኖት Ethiopian AI HUB
+
+An AI platform bringing productivity, OCR, and intelligent workflow tools together.
+
+**Tech**
+
+- Python
+- JavaScript
+- HTML
+- CSS
+
+🌐 https://majestic-gumdrop-e713f7.netlify.app/
+
+---
+
+### ⛪ Ethiopian Orthodox Church Platform
+
+A bilingual platform providing Ethiopian Orthodox books, teachings, Kidase resources, church history, videos, and events.
+
+**Tech**
+
+- React
+- React Router
+- i18next
+- React-i18next
+
+🌐 https://orthodox-tewahdo.netlify.app/
+
+---
+
+### 🏠 House Rental System
+
+Rental management platform that helps owners publish houses and renters search by location, rooms, and price.
+
+**Tech**
+
+- Next.js
+- TypeScript
+- PHP
+- Tailwind CSS
+
+🌐 https://house-rental-system-ten.vercel.app/
+
+---
+
+### 📄 DevResumeMagic
+
+Generate professional developer resumes directly from GitHub profiles.
+
+**Features**
+
+- GitHub Profile Import
+- PDF Export
+- Mobile Friendly
+- Real-time GitHub API
+
+**Tech**
+
+- JavaScript
+- GitHub API
+- HTML
+- Bootstrap
+
+---
+
+### 📝 SyncWrite
+
+Production-ready collaborative document editor with real-time synchronization.
+
+**Features**
+
+- Real-time collaboration
+- Authentication
+- Comments
+- Permission Management
+- Revision History
+
+🌐 https://synkwrite.netlify.app/
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=samuelabera21&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelabera21&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+## 📫 Connect
+
+<p align="center">
+
+<a href="mailto:sami21.good.bad@gmail.com">Email</a> •
+<a href="https://linkedin.com/in/samuelabera21">LinkedIn</a> •
+<a href="https://github.com/samuelabera21">GitHub</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Backend+Developer;AI+and+Data+Science+Learner;Problem+Solver;Open+Source+Contributor" />
+<i>"First, solve the problem. Then, write the code."</i>
 </p>
-
----
-
-⭐ *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
