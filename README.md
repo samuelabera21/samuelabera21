@@ -120,6 +120,8 @@ Generate professional developer resumes directly from GitHub profiles.
 - HTML
 - Bootstrap
 
+  https://lighthearted-truffle-2fb80e.netlify.app/
+
 ---
 
 ### 📝 SyncWrite
