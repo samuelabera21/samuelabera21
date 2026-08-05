@@ -49,6 +49,24 @@ Responsive job marketplace connecting employers and job seekers.
 
 ---
 
+
+
+### 📝 SyncWrite
+
+Production-ready collaborative document editor with real-time synchronization.
+
+**Features**
+
+- Real-time collaboration
+- Authentication
+- Comments
+- Permission Management
+- Revision History
+
+🌐 https://synkwrite.netlify.app/
+
+
+
 ### 🤖 ፍኖት Ethiopian AI HUB
 
 An AI platform bringing productivity, OCR, and intelligent workflow tools together.
@@ -94,6 +112,8 @@ Rental management platform that helps owners publish houses and renters search b
 
 ---
 
+
+
 ### 📄 DevResumeMagic
 
 Generate professional developer resumes directly from GitHub profiles.
@@ -115,22 +135,6 @@ Generate professional developer resumes directly from GitHub profiles.
   https://lighthearted-truffle-2fb80e.netlify.app/
 
 ---
-
-### 📝 SyncWrite
-
-Production-ready collaborative document editor with real-time synchronization.
-
-**Features**
-
-- Real-time collaboration
-- Authentication
-- Comments
-- Permission Management
-- Revision History
-
-🌐 https://synkwrite.netlify.app/
-
-
 
 
 ### 🧠 SkillHub Online Learning
