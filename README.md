@@ -15,7 +15,7 @@ Software Engineering Student • Full-Stack Web Developer • AI & Machine Learn
 - 🎓 Software Engineering Student
 - 🌍 Based in Ethiopia
 - 💡 Passionate about **Backend Development**, **Artificial Intelligence**, and **Modern Web Applications**
-- 🌱 Currently learning **Machine Learning**, **Next.js**, **System Design**, and **Cloud Technologies**
+- 🌱 Currently learning **Machine Learning**, **AI**, and **Cloud Technologies**
 - 🚀 I enjoy building products that solve real-world problems.
 
 ---
