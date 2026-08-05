@@ -33,7 +33,7 @@ Software Engineering Student • Full-Stack Web Developer • AI & Machine Learn
 ## 🚀 Featured Projects
 
 
-### 💼 Ira Gebeya | Job Marketplace
+1  ### 💼 Ira Gebeya | Job Marketplace
 
 Responsive job marketplace connecting employers and job seekers.
 
@@ -51,7 +51,7 @@ Responsive job marketplace connecting employers and job seekers.
 
 
 
-### 📝 SyncWrite
+2  ### 📝 SyncWrite
 
 Production-ready collaborative document editor with real-time synchronization.
 
@@ -67,7 +67,9 @@ Production-ready collaborative document editor with real-time synchronization.
 
 
 
-### 🤖 ፍኖት Ethiopian AI HUB
+
+
+3  ### 🤖 ፍኖት Ethiopian AI HUB
 
 An AI platform bringing productivity, OCR, and intelligent workflow tools together.
 
@@ -82,7 +84,9 @@ An AI platform bringing productivity, OCR, and intelligent workflow tools togeth
 
 ---
 
-### ⛪ Ethiopian Orthodox Church Platform
+
+
+4  ### ⛪ Ethiopian Orthodox Church Platform
 
 A bilingual platform providing Ethiopian Orthodox books, teachings, Kidase resources, church history, videos, and events.
 
@@ -97,7 +101,9 @@ A bilingual platform providing Ethiopian Orthodox books, teachings, Kidase resou
 
 ---
 
-### 🏠 House Rental System
+
+
+5  ### 🏠 House Rental System
 
 Rental management platform that helps owners publish houses and renters search by location, rooms, and price.
 
@@ -114,7 +120,7 @@ Rental management platform that helps owners publish houses and renters search b
 
 
 
-### 📄 DevResumeMagic
+6  ### 📄 DevResumeMagic
 
 Generate professional developer resumes directly from GitHub profiles.
 
@@ -137,7 +143,8 @@ Generate professional developer resumes directly from GitHub profiles.
 ---
 
 
-### 🧠 SkillHub Online Learning
+
+7  ### 🧠 SkillHub Online Learning
 Online learning platform for skills and courses.
 
 **Tech:** TypeScript
