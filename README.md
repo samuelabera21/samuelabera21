@@ -81,7 +81,7 @@ An AI platform bringing productivity, OCR, and intelligent workflow tools togeth
 - HTML
 - CSS
 
-🌐 https://majestic-gumdrop-e713f7.netlify.app/
+🌐 https://fnot-ai.netlify.app/
 
 ---
 
