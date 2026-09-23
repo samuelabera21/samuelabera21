@@ -10,6 +10,10 @@ Software Engineering Student • Full-Stack Web Developer • AI & Machine Learn
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+Full-Stack+Applications;Learning+Artificial+Intelligence;Backend+Developer;Always+Learning+Something+New" />
 </p>
 
+<br clear="right">
+
+---
+
 ---
 
 ## 👨‍💻 About Me
