@@ -1,6 +1,5 @@
 <img align="right" width="150" src="./portfolio_qr.png" alt="QR code to my portfolio"> <h1 align="center">Hi 👋, I'm Samuel Abera</h1> <p align="center"> Software Engineering Student • Full-Stack Web Developer • AI & Machine Learning Learner </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+Full-Stack+Applications;Learning+Artificial+Intelligence;Backend+Developer;Always+Learning+Something+New" /> </p>
 
----
 
 ---
 
