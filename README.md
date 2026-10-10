@@ -31,7 +31,7 @@
 ## 🚀 Featured Projects
 
 
-1  ### 💼 Ira Gebeya | Job Marketplace
+1  ### 💼 SIra Gebeya | Job Marketplace
 
 Responsive job marketplace connecting employers and job seekers.
 
