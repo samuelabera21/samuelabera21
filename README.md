@@ -97,9 +97,9 @@ Ruff and Mypy
 
 PyPI packaging
 
-📦 PyPI Package
-🌐 Live Demo
-💻 GitHub Repository
+📦 PyPI Package: https://pypi.org/project/samuel-devvault/
+🌐 Live Demo: https://devvault2.netlify.app/
+
 
 
 4  ### 💼 SIra Gebeya | Job Marketplace
