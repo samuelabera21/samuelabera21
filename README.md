@@ -30,20 +30,19 @@
 
 ## 🚀 Featured Projects
 
+1  ### 🤖 ፍኖት Ethiopian AI HUB
 
-1  ### 💼 SIra Gebeya | Job Marketplace
-
-Responsive job marketplace connecting employers and job seekers.
+An AI platform bringing productivity, OCR, and intelligent workflow tools together.
 
 **Tech**
 
+- Python
+- JavaScript
 - HTML
 - CSS
-- JavaScript
-- Tailwind CSS
-- Quill.js
 
-🌐 https://resplendent-starship-9acec3.netlify.app/
+🌐 https://fnot-ai.netlify.app/
+
 
 ---
 
@@ -66,20 +65,56 @@ Production-ready collaborative document editor with real-time synchronization.
 ---
 
 
+3. 🐍 DevVault — Python Configuration & Secrets CLI
+
+A modern Python CLI tool for managing developer configuration, environment profiles, and secrets securely. Published on PyPI, DevVault includes profile management, schema validation, .env import/export, configuration backups, and project templates.
+
+Features
+
+Configuration and environment profile management
+
+Secret masking and optional encryption at rest
+
+.env import and export
+
+Schema validation and configuration diff
+
+Audit history, backup, and restore
+
+Project templates and isolated environment variable injection
+
+JSON output for scripts and CI/CD pipelines
+
+Tech Stack
+
+Python
+
+Typer / CLI development
+
+Pytest
+
+Ruff and Mypy
+
+PyPI packaging
+
+📦 PyPI Package
+🌐 Live Demo
+💻 GitHub Repository
 
 
-3  ### 🤖 ፍኖት Ethiopian AI HUB
+4  ### 💼 SIra Gebeya | Job Marketplace
 
-An AI platform bringing productivity, OCR, and intelligent workflow tools together.
+Responsive job marketplace connecting employers and job seekers.
 
 **Tech**
 
-- Python
-- JavaScript
 - HTML
 - CSS
+- JavaScript
+- Tailwind CSS
+- Quill.js
 
-🌐 https://fnot-ai.netlify.app/
+🌐 https://resplendent-starship-9acec3.netlify.app/
 
 ---
 
