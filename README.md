@@ -46,9 +46,21 @@ An AI platform bringing productivity, OCR, and intelligent workflow tools togeth
 
 ---
 
+2  ### ⛪ Ethiopian Orthodox Church Platform
 
+A bilingual platform providing Ethiopian Orthodox books, teachings, Kidase resources, church history, videos, and events.
 
-2  ### 📝 SyncWrite
+**Tech**
+
+- React
+- React Router
+- i18next
+- React-i18next
+
+🌐 https://orthodox-tewahdo.netlify.app/
+---
+
+3  ### 📝 SyncWrite
 
 Production-ready collaborative document editor with real-time synchronization.
 
@@ -65,7 +77,7 @@ Production-ready collaborative document editor with real-time synchronization.
 ---
 
 
-3. 🐍 DevVault — Python Configuration & Secrets CLI
+4. 🐍 DevVault — Python Configuration & Secrets CLI
 
 A modern Python CLI tool for managing developer configuration, environment profiles, and secrets securely. Published on PyPI, DevVault includes profile management, schema validation, .env import/export, configuration backups, and project templates.
 
@@ -105,7 +117,7 @@ PyPI packaging
 
 ---
 
-4  ### 💼 SIra Gebeya | Job Marketplace
+5  ### 💼 SIra Gebeya | Job Marketplace
 
 Responsive job marketplace connecting employers and job seekers.
 
@@ -119,28 +131,12 @@ Responsive job marketplace connecting employers and job seekers.
 
 🌐 https://resplendent-starship-9acec3.netlify.app/
 
----
-
-
-
-4  ### ⛪ Ethiopian Orthodox Church Platform
-
-A bilingual platform providing Ethiopian Orthodox books, teachings, Kidase resources, church history, videos, and events.
-
-**Tech**
-
-- React
-- React Router
-- i18next
-- React-i18next
-
-🌐 https://orthodox-tewahdo.netlify.app/
 
 ---
 
 
 
-5  ### 🏠 House Rental System
+6  ### 🏠 House Rental System
 
 Rental management platform that helps owners publish houses and renters search by location, rooms, and price.
 
@@ -157,7 +153,7 @@ Rental management platform that helps owners publish houses and renters search b
 
 
 
-6  ### 📄 DevResumeMagic
+7  ### 📄 DevResumeMagic
 
 Generate professional developer resumes directly from GitHub profiles.
 
@@ -181,7 +177,7 @@ Generate professional developer resumes directly from GitHub profiles.
 
 
 
-7  ### 🧠 SkillHub Online Learning
+8  ### 🧠 SkillHub Online Learning
 Online learning platform for skills and courses.
 
 **Tech:** TypeScript
