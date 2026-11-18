@@ -1,5 +1,3 @@
- <img align="right" width="150" src="./portfolio_qr.png" alt="QR code to my portfolio">
-
 <h1 align="center">Hi 👋, I'm Samuel Abera</h1>
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
