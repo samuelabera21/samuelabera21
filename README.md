@@ -10,7 +10,7 @@
 ---
 
 ## 👨‍💻 About Me
-
+Portfolio: https://samuel-abera-six.vercel.app/
 - 🎓 Aspiring Software Engineer
 - 🌍 Based in Ethiopia
 - 💡 Passionate about **Backend Development**, **Artificial Intelligence**, and **Modern Web Applications**
