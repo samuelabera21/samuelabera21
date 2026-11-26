@@ -28,184 +28,48 @@ Portfolio: https://samuel-abera-six.vercel.app/
 </p>
 
 ---
-
 ## 🚀 Featured Projects
 
-1. ### 🎓 EduBridge — Multi-Level Education Management & Learning Platform
-
-An education management and hierarchical governance platform designed for the Ethiopian education system. It connects Federal, Regional, Zone, Woreda, and School administrations through a unified platform.
-
-**Features**
-
-- Hierarchical governance across five administrative levels.
-- Role-Based Access Control (RBAC) and territorial data isolation.
-- Student, teacher, and parent management.
-- Classroom attendance and batch mark-sheet verification.
-- Curriculum distribution and academic timetable management.
-- AI-powered EMIS analytics and student tutoring.
-- National directives and institutional monitoring.
-
-**Tech Stack**
-
-- Next.js 16
-- TypeScript
-- Express.js 5
-- PostgreSQL (Supabase)
-- Google Gemini AI
-
-🌐 **Live Application:** [https://edubridge-olive.vercel.app/](https://edubridge-olive.vercel.app/)
-
-💻 **GitHub:** [https://github.com/samuelabera21/Edubridge](https://github.com/samuelabera21/Edubridge)
-
----
-
-2. ### 🤖 ፍኖት Ethiopian AI HUB
-
-An AI platform bringing productivity, OCR, and intelligent workflow tools together.
-
-**Tech**
-
-- Python
-- JavaScript
-- HTML
-- CSS
-
-🌐 [https://fnot-ai.netlify.app/](https://fnot-ai.netlify.app/)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://orthodox-tewahdo.netlify.app/"><strong>⛪ Ethiopian Orthodox Church Platform</strong></a>
+      <br/>
+      <sub><a href="https://orthodox-tewahdo.netlify.app/">Live Demo ↗</a></sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/samuelabera21/S-store"><strong>🛍️ S-Store</strong></a>
+      <br/>
+      <sub><a href="https://github.com/samuelabera21/S-store">GitHub ↗</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://edubridge-olive.vercel.app/"><strong>🎓 EduBridge</strong></a>
+      <br/>
+      <sub><a href="https://edubridge-olive.vercel.app/">Live Demo ↗</a> · <a href="https://github.com/samuelabera21/Edubridge">GitHub ↗</a></sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://fnot-ai.netlify.app/"><strong>🤖 ፍኖት Ethiopian AI HUB</strong></a>
+      <br/>
+      <sub><a href="https://fnot-ai.netlify.app/">Live Demo ↗</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://synkwrite.netlify.app/"><strong>📝 SyncWrite</strong></a>
+      <br/>
+      <sub><a href="https://synkwrite.netlify.app/">Live Demo ↗</a> · <a href="https://github.com/samuelabera21/syncwrite">GitHub ↗</a></sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/samuelabera21/devvault-CLI"><strong>🐍 DevVault</strong></a>
+      <br/>
+      <sub><a href="https://github.com/samuelabera21/devvault-CLI">GitHub ↗</a> · <a href="https://pypi.org/project/samuel-devvault/">PyPI ↗</a></sub>
+    </td>
+  </tr>
+</table>
 
 ---
-
-3. ### ⛪ Ethiopian Orthodox Church Platform
-
-A bilingual platform providing Ethiopian Orthodox books, teachings, Kidase resources, church history, videos, and events.
-
-**Tech**
-
-- React
-- React Router
-- i18next
-- React-i18next
-
-🌐 [https://orthodox-tewahdo.netlify.app/](https://orthodox-tewahdo.netlify.app/)
-
----
-
-4. ### 📝 SyncWrite
-
-Production-ready collaborative document editor with real-time synchronization.
-
-**Features**
-
-- Real-time collaboration
-- Authentication
-- Comments
-- Permission Management
-- Revision History
-
-🌐 [https://synkwrite.netlify.app/](https://synkwrite.netlify.app/)
-
----
-
-5. 🐍 DevVault — Python Configuration & Secrets CLI
-
-A modern Python CLI tool for managing developer configuration, environment profiles, and secrets securely. Published on PyPI, DevVault includes profile management, schema validation, .env import/export, configuration backups, and project templates.
-
-Features
-
-Configuration and environment profile management
-
-Secret masking and optional encryption at rest
-
-.env import and export
-
-Schema validation and configuration diff
-
-Audit history, backup, and restore
-
-Project templates and isolated environment variable injection
-
-JSON output for scripts and CI/CD pipelines
-
-Tech Stack
-
-Python
-
-Typer / CLI development
-
-Pytest
-
-Ruff and Mypy
-
-PyPI packaging
-
-📦 PyPI Package: [https://pypi.org/project/samuel-devvault/](https://pypi.org/project/samuel-devvault/)
-
-🌐 Live Demo: [https://devvault2.netlify.app/](https://devvault2.netlify.app/)
-
----
-
-6. ### 💼 SIra Gebeya | Job Marketplace
-
-Responsive job marketplace connecting employers and job seekers.
-
-**Tech**
-
-- HTML
-- CSS
-- JavaScript
-- Tailwind CSS
-- Quill.js
-
-🌐 [https://resplendent-starship-9acec3.netlify.app/](https://resplendent-starship-9acec3.netlify.app/)
-
----
-
-7. ### 🏠 House Rental System
-
-Rental management platform that helps owners publish houses and renters search by location, rooms, and price.
-
-**Tech**
-
-- Next.js
-- TypeScript
-- PHP
-- Tailwind CSS
-
-🌐 [https://house-rental-system-ten.vercel.app/](https://house-rental-system-ten.vercel.app/)
-
----
-
-8. ### 📄 DevResumeMagic
-
-Generate professional developer resumes directly from GitHub profiles.
-
-**Features**
-
-- GitHub Profile Import
-- PDF Export
-- Mobile Friendly
-- Real-time GitHub API
-
-**Tech**
-
-- JavaScript
-- GitHub API
-- HTML
-- Bootstrap
-
-&#x20; [https://lighthearted-truffle-2fb80e.netlify.app/](https://lighthearted-truffle-2fb80e.netlify.app/)
-
----
-
-9. ### 🧠 SkillHub Online Learning
-
-Online learning platform for skills and courses.
-
-**Tech:** TypeScript
-
-🔗 [https://ethi-skill.netlify.app/](https://ethi-skill.netlify.app/)
-
----
-
 ---
 
 ## 📊 GitHub Stats
