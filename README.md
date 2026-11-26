@@ -133,19 +133,3 @@ Python CLI for developer configuration and secrets management.
 </p>
 
 ---
-
-## 📫 Connect
-
-<p align="center">
-
-<a href="mailto:sami21.good.bad@gmail.com">Email</a> •
-<a href="https://linkedin.com/in/samuelabera21">LinkedIn</a> •
-<a href="https://github.com/samuelabera21">GitHub</a>
-
-</p>
-
----
-
-<p align="center">
-<i>"First, solve the problem. Then, write the code."</i>
-</p>
