@@ -28,70 +28,73 @@ Portfolio: https://samuel-abera-six.vercel.app/
 </p>
 
 ---
+
 ## 🚀 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td align="center" width="50%" valign="middle">
-      <a href="https://orthodox-tewahdo.netlify.app/"><strong>⛪ Ethiopian Orthodox Church Platform</strong></a>
-      <br/><br/>
-      <a href="https://orthodox-tewahdo.netlify.app/">Live Demo ↗</a>
-    </td>
-    <td align="center" width="50%" valign="middle">
-      <a href="https://sstore-nu.vercel.app/"><strong>🛍️ S-Store</strong></a>
-      <br/><br/>
-      <a href="https://sstore-nu.vercel.app/">Live Demo ↗</a> · <a href="https://github.com/samuelabera21/S-store">GitHub ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" valign="middle">
-      <a href="https://edubridge-olive.vercel.app/"><strong>🎓 EduBridge</strong></a>
-      <br/><br/>
-      <a href="https://edubridge-olive.vercel.app/">Live Demo ↗</a> · <a href="https://github.com/samuelabera21/Edubridge">GitHub ↗</a>
-    </td>
-    <td align="center" width="50%" valign="middle">
-      <a href="https://fnot-ai.netlify.app/"><strong>🤖 ፍኖት Ethiopian AI HUB</strong></a>
-      <br/><br/>
-      <a href="https://fnot-ai.netlify.app/">Live Demo ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" valign="middle">
-      <a href="https://synkwrite.netlify.app/"><strong>📝 SyncWrite</strong></a>
-      <br/><br/>
-      <a href="https://synkwrite.netlify.app/">Live Demo ↗</a> · <a href="https://github.com/samuelabera21/syncwrite">GitHub ↗</a>
-    </td>
-    <td align="center" width="50%" valign="middle">
-      <a href="https://github.com/samuelabera21/devvault-CLI"><strong>🐍 DevVault</strong></a>
-      <br/><br/>
-      <a href="https://github.com/samuelabera21/devvault-CLI">GitHub ↗</a> · <a href="https://pypi.org/project/samuel-devvault/">PyPI ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" valign="middle">
-      <a href="https://resplendent-starship-9acec3.netlify.app/"><strong>💼 Sira Gebeya | Job Marketplace</strong></a>
-      <br/><br/>
-      <a href="https://resplendent-starship-9acec3.netlify.app/">Live Demo ↗</a>
-    </td>
-    <td align="center" width="50%" valign="middle">
-      <a href="https://house-rental-system-ten.vercel.app/"><strong>🏠 House Rental System</strong></a>
-      <br/><br/>
-      <a href="https://house-rental-system-ten.vercel.app/">Live Demo ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" valign="middle">
-      <a href="https://lighthearted-truffle-2fb80e.netlify.app/"><strong>📄 DevResumeMagic</strong></a>
-      <br/><br/>
-      <a href="https://lighthearted-truffle-2fb80e.netlify.app/">Live Demo ↗</a>
-    </td>
-    <td align="center" width="50%" valign="middle">
-      <a href="https://ethi-skill.netlify.app/"><strong>🧠 SkillHub Online Learning</strong></a>
-      <br/><br/>
-      <a href="https://ethi-skill.netlify.app/">Live Demo ↗</a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://orthodox-tewahdo.netlify.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=350&height=50&lines=Ethiopian+Orthodox+Platform" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://sstore-nu.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=350&height=50&lines=S-Store" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://orthodox-tewahdo.netlify.app/">🌐 Live Demo</a>
+  &nbsp; • &nbsp;
+  <a href="https://sstore-nu.vercel.app/">🌐 Live Demo</a> ·
+  <a href="https://github.com/samuelabera21/S-store">💻 GitHub</a>
+</p>
+
+<p align="center">
+  <a href="https://edubridge-olive.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=350&height=50&lines=EduBridge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://fnot-ai.netlify.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=350&height=50&lines=Finot+Ethiopian+AI+HUB" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://edubridge-olive.vercel.app/">🌐 Live Demo</a> ·
+  <a href="https://github.com/samuelabera21/Edubridge">💻 GitHub</a>
+  &nbsp; • &nbsp;
+  <a href="https://fnot-ai.netlify.app/">🌐 Live Demo</a>
+</p>
+
+<p align="center">
+  <a href="https://synkwrite.netlify.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=350&height=50&lines=SyncWrite" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/samuelabera21/devvault-CLI">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=350&height=50&lines=DevVault" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://synkwrite.netlify.app/">🌐 Live Demo</a> ·
+  <a href="https://github.com/samuelabera21/syncwrite">💻 GitHub</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/samuelabera21/devvault-CLI">💻 GitHub</a> ·
+  <a href="https://pypi.org/project/samuel-devvault/">📦 PyPI</a>
+</p>
+
+<details>
+  <summary><strong>📂 More Projects (4)</strong></summary>
+
+  - 💼 [Sira Gebeya – Job Marketplace](https://resplendent-starship-9acec3.netlify.app/)
+  - 🏠 [House Rental System](https://house-rental-system-ten.vercel.app/)
+  - 📄 [DevResumeMagic](https://lighthearted-truffle-2fb80e.netlify.app/)
+  - 🧠 [SkillHub Online Learning](https://ethi-skill.netlify.app/)
+
+</details>
+
+---
+
 
 ---
 
