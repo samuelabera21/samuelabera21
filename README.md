@@ -29,69 +29,90 @@ Portfolio: https://samuel-abera-six.vercel.app/
 
 ---
 
+
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://orthodox-tewahdo.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=350&height=50&lines=Ethiopian+Orthodox+Platform" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://sstore-nu.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=350&height=50&lines=S-Store" />
-  </a>
-</p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
 
-<p align="center">
-  <a href="https://orthodox-tewahdo.netlify.app/">🌐 Live Demo</a>
-  &nbsp; • &nbsp;
-  <a href="https://sstore-nu.vercel.app/">🌐 Live Demo</a> ·
-  <a href="https://github.com/samuelabera21/S-store">💻 GitHub</a>
-</p>
+### ⛪ Ethiopian Orthodox Church Platform
 
-<p align="center">
-  <a href="https://edubridge-olive.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=350&height=50&lines=EduBridge" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://fnot-ai.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=350&height=50&lines=Finot+Ethiopian+AI+HUB" />
-  </a>
-</p>
+A digital platform for Ethiopian Orthodox books, teachings and resources.
 
-<p align="center">
-  <a href="https://edubridge-olive.vercel.app/">🌐 Live Demo</a> ·
-  <a href="https://github.com/samuelabera21/Edubridge">💻 GitHub</a>
-  &nbsp; • &nbsp;
-  <a href="https://fnot-ai.netlify.app/">🌐 Live Demo</a>
-</p>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Website-E85D75?style=for-the-badge&logo=netlify&logoColor=white)](https://orthodox-tewahdo.netlify.app/)
 
-<p align="center">
-  <a href="https://synkwrite.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=350&height=50&lines=SyncWrite" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/samuelabera21/devvault-CLI">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=350&height=50&lines=DevVault" />
-  </a>
-</p>
+</td>
+<td width="50%" valign="top" align="center">
 
-<p align="center">
-  <a href="https://synkwrite.netlify.app/">🌐 Live Demo</a> ·
-  <a href="https://github.com/samuelabera21/syncwrite">💻 GitHub</a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/samuelabera21/devvault-CLI">💻 GitHub</a> ·
-  <a href="https://pypi.org/project/samuel-devvault/">📦 PyPI</a>
-</p>
+### 🛍️ S-Store
+
+A visual discovery and content curation platform.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Website-E60023?style=for-the-badge&logo=vercel&logoColor=white)](https://sstore-nu.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/samuelabera21/S-store)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 🎓 EduBridge
+
+Multi-level education management and learning platform.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://edubridge-olive.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/samuelabera21/Edubridge)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 🤖 ፍኖት Ethiopian AI HUB
+
+An AI-powered platform bringing productivity and intelligent tools together.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Website-9333EA?style=for-the-badge&logo=netlify&logoColor=white)](https://fnot-ai.netlify.app/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 📝 SyncWrite
+
+Real-time collaborative document editing platform.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Website-DB2777?style=for-the-badge&logo=netlify&logoColor=white)](https://synkwrite.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/samuelabera21/syncwrite)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 🐍 DevVault
+
+Python CLI for developer configuration and secrets management.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/samuelabera21/devvault-CLI)
+[![PyPI](https://img.shields.io/badge/PyPI-Package-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/samuel-devvault/)
+
+</td>
+</tr>
+</table>
 
 <details>
-  <summary><strong>📂 More Projects (4)</strong></summary>
+<summary><strong>📂 More Projects (4)</strong></summary>
 
-  - 💼 [Sira Gebeya – Job Marketplace](https://resplendent-starship-9acec3.netlify.app/)
-  - 🏠 [House Rental System](https://house-rental-system-ten.vercel.app/)
-  - 📄 [DevResumeMagic](https://lighthearted-truffle-2fb80e.netlify.app/)
-  - 🧠 [SkillHub Online Learning](https://ethi-skill.netlify.app/)
+- 💼 [Sira Gebeya – Job Marketplace](https://resplendent-starship-9acec3.netlify.app/)
+- 🏠 [House Rental System](https://house-rental-system-ten.vercel.app/)
+- 📄 [DevResumeMagic](https://lighthearted-truffle-2fb80e.netlify.app/)
+- 🧠 [SkillHub Online Learning](https://ethi-skill.netlify.app/)
 
 </details>
+
+---
+
 
 ---
 
