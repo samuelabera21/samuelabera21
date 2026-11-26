@@ -113,15 +113,6 @@ Python CLI for developer configuration and secrets management.
 
 ---
 
-
----
-
-
----
-
----
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
